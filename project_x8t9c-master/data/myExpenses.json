@@ -1,0 +1,17 @@
+{
+    "name": "MyExpenses",
+    "expenses": [
+        {
+            "date": "2021-11-10",
+            "amount": "20.0",
+            "title": "shoppers",
+            "category": "medication"
+        },
+        {
+            "date": "2021-11-11",
+            "amount": "78.0",
+            "title": "whole foods",
+            "category": "groceries"
+        }
+    ]
+}

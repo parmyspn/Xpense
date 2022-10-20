@@ -1,0 +1,23 @@
+{
+    "name": "MyExpenses",
+    "expenses": [
+        {
+            "date": "2021-10-14",
+            "amount": "29.99",
+            "title": "zara",
+            "category": "Clothing"
+        },
+        {
+            "date": "2021-10-13",
+            "amount": "120.0",
+            "title": "Nordstrom",
+            "category": "Clothing"
+        },
+        {
+            "date": "2021-10-01",
+            "amount": "50.99",
+            "title": "Urban Outfitters",
+            "category": "Clothing"
+        }
+    ]
+}
