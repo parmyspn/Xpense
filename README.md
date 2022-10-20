@@ -4,6 +4,7 @@ This project is aimed to track one's expenses. An expense can be added by the us
 This project interests me because it helps be alert of  how much money I spend in a month or on different purposes (category). 
 Everyone who wants to keep track of their expenses can use this application.
 
+![Xpense sc](https://user-images.githubusercontent.com/93885987/196858005-921b2099-b1e2-41fe-b99b-25033ebefec4.JPG)
 
 ## User Story
 - As a user, I want to be able to add an expense to my expenses.
